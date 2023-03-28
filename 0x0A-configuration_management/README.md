@@ -1,1 +1,1 @@
-a readme configuration management on system engineering devops
+comfiguration management readme on the system engineering devops
